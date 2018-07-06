@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:irc="http://www.InstantTvChannel.com/help/mrss/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channel>
+		<item>
+			<irc:title>3/24</irc:title>
+			<irc:poster>https://k60.kn3.net/7/1/5/2/D/3/DCC.jpg</irc:poster>
+			<irc:url>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>25 Televisio</irc:title>
+			<irc:poster>https://k60.kn3.net/F/A/D/E/7/8/679.png</irc:poster>
+			<irc:url>http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>13 TV</irc:title>
+			<irc:poster>https://k60.kn3.net/A/E/1/A/F/6/EA8.jpg</irc:poster>
+			<irc:url>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Andalucia Turismo</irc:title>
+			<irc:poster>https://k60.kn3.net/B/0/C/7/2/4/82F.jpg</irc:poster>
+			<irc:url>http://194.158.80.31:443/live/rtva/playlist.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Andorra TV</irc:title>
+			<irc:poster>https://k60.kn3.net/1/F/8/B/1/0/C5F.jpg</irc:poster>
+			<irc:url>http://194.158.80.31:443/live/rtva/playlist.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Antena 3</irc:title>
+			<irc:poster>https://k60.kn3.net/F/0/8/8/F/8/B31.jpg</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Canal 4</irc:title>
+			<irc:poster>https://k60.kn3.net/0/F/1/D/A/8/889.png</irc:poster>
+			<irc:url>https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Atreseries</irc:title>
+			<irc:poster>https://k60.kn3.net/4/1/1/A/8/0/4CC.png</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Canal 24 Horas</irc:title>
+			<irc:poster>https://k60.kn3.net/0/E/2/0/9/4/766.jpg</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Canal Extremadura</irc:title>
+			<irc:poster>https://k60.kn3.net/4/6/F/F/5/9/CD7.png</irc:poster>
+			<irc:url>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Canal Sur Cocina</irc:title>
+			<irc:poster>https://k60.kn3.net/F/1/6/A/6/2/8CB.png</irc:poster>
+			<irc:url>http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Canal Sur Flamenco</irc:title>
+			<irc:poster>https://k60.kn3.net/6/6/7/7/1/5/496.jpg</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>La Sexta</irc:title>
+			<irc:poster>https://k60.kn3.net/2/9/0/7/C/7/B34.jpg</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>La Otra</irc:title>
+			<irc:poster>https://k60.kn3.net/2/F/0/8/3/D/5B5.jpg</irc:poster>
+			<irc:url>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>La Xarxa</irc:title>
+			<irc:poster>https://k60.kn3.net/E/5/0/6/D/9/3B1.jpg</irc:poster>
+			<irc:url>http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Neox</irc:title>
+			<irc:poster>https://k60.kn3.net/F/9/4/1/7/4/5D3.png</irc:poster>
+			<irc:url>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Nova</irc:title>
+			<irc:poster>https://k60.kn3.net/7/A/C/F/4/A/05A.png</irc:poster>
+			<irc:url>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Real Madrid TV</irc:title>
+			<irc:poster>https://k60.kn3.net/A/6/7/7/3/2/975.jpg</irc:poster>
+			<irc:url>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+		<item>
+			<irc:title>Sevilla FC TV</irc:title>
+			<irc:poster>https://k60.kn3.net/9/3/6/E/7/0/5EF.jpg</irc:poster>
+			<irc:url>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</irc:url>
+			<irc:streamformat>hls</irc:streamformat>
+		</item>
+	</channel>
+</rss>
